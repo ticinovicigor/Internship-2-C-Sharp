@@ -1,0 +1,14 @@
+C:\Users\igort\Documents\DUMP\dump_domaci1\obj\Debug\net6.0\dump_domaci1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igort\Documents\DUMP\dump_domaci1\obj\Debug\net6.0\dump_domaci1.AssemblyInfoInputs.cache
+C:\Users\igort\Documents\DUMP\dump_domaci1\obj\Debug\net6.0\dump_domaci1.AssemblyInfo.cs
+C:\Users\igort\Documents\DUMP\dump_domaci1\obj\Debug\net6.0\dump_domaci1.csproj.CoreCompileInputs.cache
+C:\Users\igort\Documents\DUMP\dump_domaci1\bin\Debug\net6.0\dump_domaci1.exe
+C:\Users\igort\Documents\DUMP\dump_domaci1\bin\Debug\net6.0\dump_domaci1.deps.json
+C:\Users\igort\Documents\DUMP\dump_domaci1\bin\Debug\net6.0\dump_domaci1.runtimeconfig.json
+C:\Users\igort\Documents\DUMP\dump_domaci1\bin\Debug\net6.0\dump_domaci1.dll
+C:\Users\igort\Documents\DUMP\dump_domaci1\bin\Debug\net6.0\dump_domaci1.pdb
+C:\Users\igort\Documents\DUMP\dump_domaci1\obj\Debug\net6.0\dump_domaci1.dll
+C:\Users\igort\Documents\DUMP\dump_domaci1\obj\Debug\net6.0\refint\dump_domaci1.dll
+C:\Users\igort\Documents\DUMP\dump_domaci1\obj\Debug\net6.0\dump_domaci1.pdb
+C:\Users\igort\Documents\DUMP\dump_domaci1\obj\Debug\net6.0\dump_domaci1.genruntimeconfig.cache
+C:\Users\igort\Documents\DUMP\dump_domaci1\obj\Debug\net6.0\ref\dump_domaci1.dll
